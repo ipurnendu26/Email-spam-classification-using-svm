@@ -100,6 +100,4 @@ Email-spam-classification-using-svm/
 
 This project is for educational purposes.
 
-## 👤 Author
 
-Data Science Team - January 2026
